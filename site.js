@@ -15,3 +15,5 @@ else if (isAfternoon){
 else{
     welcome.textContent = "Good Evening"
 }
+
+localStorage.setItem("It's a secret to everybody.", 'I play Forza Horizan 5 on my Xbox One')
